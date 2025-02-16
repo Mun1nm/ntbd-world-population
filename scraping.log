@@ -1,0 +1,27 @@
+2025-02-12 10:32:25,130 - INFO - Tabela extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 10:32:25,344 - WARNING - Tabela de religiões não encontrada com pd.read_html. Tentando com BeautifulSoup...
+2025-02-12 10:32:26,158 - ERROR - Tabela de religiões não encontrada usando BeautifulSoup.
+2025-02-12 10:36:12,415 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 10:36:12,426 - INFO - Dados principais extraídos.
+2025-02-12 10:36:13,345 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 10:36:13,353 - INFO - Foram encontrados 234 países para processar dados históricos.
+2025-02-12 10:43:07,900 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 10:43:07,917 - INFO - Dados principais extraídos.
+2025-02-12 10:43:08,888 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 10:43:08,900 - INFO - Foram encontrados 234 países para processar dados históricos.
+2025-02-12 10:50:49,213 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 10:50:49,222 - INFO - Dados principais extraídos.
+2025-02-12 10:50:50,110 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 10:50:50,121 - INFO - Foram encontrados 234 países para processar dados históricos.
+2025-02-12 10:53:08,880 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 10:53:08,904 - INFO - Dados principais extraídos.
+2025-02-12 10:53:09,895 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 10:53:09,904 - INFO - Foram encontrados 234 países para processar dados históricos.
+2025-02-12 10:57:10,565 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 10:57:10,575 - INFO - Dados principais extraídos.
+2025-02-12 10:57:11,930 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 10:57:11,938 - INFO - Foram encontrados 234 países para processar dados históricos.
+2025-02-12 11:01:11,234 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 11:01:11,255 - INFO - Dados principais extraídos.
+2025-02-12 11:01:12,744 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-12 11:01:12,766 - INFO - Foram encontrados 234 países para processar dados históricos.

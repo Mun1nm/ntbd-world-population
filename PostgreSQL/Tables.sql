@@ -17,12 +17,11 @@ CREATE TABLE Dim_Religiao (
 );
 
 CREATE TABLE Fato_Populacao (
-    ID_Fato SERIAL PRIMARY KEY,
     Descricao TEXT,
     Chave_Tempo INTEGER NOT NULL,
     Chave_Local INTEGER NOT NULL,
 	Chave_Religiao INTEGER NOT NULL,
-    Em_Conflito VARCHAR(20),  -- por exemplo, 'Baixo', 'Médio' ou 'Alto'
+    Em_Conflito VARCHAR(20),
     Populacao_Total BIGINT,
     Populacao_Urbana BIGINT,
     Populacao_Rural BIGINT,
