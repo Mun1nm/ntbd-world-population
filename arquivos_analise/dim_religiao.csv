@@ -1,0 +1,37 @@
+﻿Nome_Religiao,Classificacao,ID_Religiao
+christianity_protestant,Cristão,1
+christianity_romancatholic,Cristão,2
+christianity_easternorthodox,Cristão,3
+christianity_anglican,Cristão,4
+christianity_other,Cristão,5
+christianity_all,Cristão,6
+judaism_orthodox,Judaico,7
+judaism_conservative,Judaico,8
+judaism_reform,Judaico,9
+judaism_other,Judaico,10
+judaism_all,Judaico,11
+islam_sunni,Muçulmano,12
+islam_shi’a,Muçulmano,13
+islam_ibadhi,Muçulmano,14
+islam_nationofislam,Muçulmano,15
+islam_alawite,Muçulmano,16
+islam_ahmadiyya,Muçulmano,17
+islam_other,Muçulmano,18
+islam_all,Muçulmano,19
+buddhism_mahayana,Budista,20
+buddhism_theravada,Budista,21
+buddhism_other,Budista,22
+buddhism_all,Budista,23
+zoroastrianism_all,Outros,24
+hinduism_all,Hindu,25
+sikhism_all,Outros,26
+shinto_all,Tradicionais,27
+baha’i_all,Outros,28
+taoism_all,Tradicionais,29
+jainism_all,Tradicionais,30
+confucianism_all,Tradicionais,31
+syncretism_all,Outros,32
+animism_all,Tradicionais,33
+noreligion_all,Secular/Não Religioso,34
+otherreligion_all,Outros,35
+nao_informado,Não Informado,36

@@ -1,0 +1,235 @@
+﻿Pais,Continente,ID_Local
+india,Asia,1
+china,Asia,2
+united states,north america,3
+indonesia,asia,4
+pakistan,asia,5
+nigeria,africa,6
+brazil,south america,7
+bangladesh,asia,8
+russia,europe/asia,9
+ethiopia,africa,10
+mexico,north america,11
+japan,asia,12
+egypt,africa,13
+philippines,asia,14
+dr congo,africa,15
+vietnam,asia,16
+iran,asia,17
+turkey,europe/asia,18
+germany,europe,19
+thailand,asia,20
+united kingdom,europe,21
+tanzania,africa,22
+france,europe,23
+south africa,africa,24
+italy,europe,25
+kenya,africa,26
+myanmar,asia,27
+colombia,south america,28
+south korea,asia,29
+sudan,africa,30
+uganda,africa,31
+spain,europe,32
+algeria,africa,33
+iraq,asia,34
+argentina,south america,35
+afghanistan,asia,36
+yemen,asia,37
+canada,north america,38
+poland,europe,39
+morocco,africa,40
+angola,africa,41
+ukraine,europe,42
+uzbekistan,asia,43
+malaysia,asia,44
+mozambique,africa,45
+ghana,africa,46
+peru,south america,47
+saudi arabia,asia,48
+madagascar,africa,49
+côte d'ivoire,africa,50
+nepal,asia,51
+cameroon,africa,52
+venezuela,south america,53
+niger,africa,54
+australia,oceania,55
+north korea,asia,56
+syria,asia,57
+mali,africa,58
+burkina faso,africa,59
+taiwan,asia,60
+sri lanka,asia,61
+malawi,africa,62
+zambia,africa,63
+kazakhstan,europe/asia,64
+chad,africa,65
+chile,south america,66
+romania,europe,67
+somalia,africa,68
+senegal,africa,69
+guatemala,central america,70
+netherlands,europe,71
+ecuador,south america,72
+cambodia,asia,73
+zimbabwe,africa,74
+guinea,africa,75
+benin,africa,76
+rwanda,africa,77
+burundi,africa,78
+bolivia,south america,79
+tunisia,africa,80
+south sudan,africa,81
+haiti,central america,82
+belgium,europe,83
+jordan,asia,84
+dominican republic,central america,85
+united arab emirates,asia,86
+cuba,central america,87
+honduras,central america,88
+czech republic (czechia),europe,89
+sweden,europe,90
+tajikistan,asia,91
+papua new guinea,oceania,92
+portugal,europe,93
+azerbaijan,asia,94
+greece,europe,95
+hungary,europe,96
+togo,africa,97
+israel,asia,98
+austria,europe,99
+belarus,europe,100
+switzerland,europe,101
+sierra leone,africa,102
+laos,asia,103
+turkmenistan,asia,104
+hong kong,asia,105
+libya,africa,106
+kyrgyzstan,asia,107
+paraguay,south america,108
+nicaragua,central america,109
+bulgaria,europe,110
+serbia,europe,111
+el salvador,central america,112
+congo,africa,113
+denmark,europe,114
+singapore,asia,115
+lebanon,asia,116
+finland,europe,117
+liberia,africa,118
+norway,europe,119
+slovakia,europe,120
+state of palestine,asia,121
+central african republic,africa,122
+oman,asia,123
+ireland,europe,124
+new zealand,oceania,125
+mauritania,africa,126
+costa rica,central america,127
+kuwait,asia,128
+panama,central america,129
+croatia,europe,130
+georgia,europe/asia,131
+eritrea,africa,132
+mongolia,asia,133
+uruguay,south america,134
+puerto rico,central america,135
+bosnia and herzegovina,europe,136
+qatar,asia,137
+moldova,europe,138
+namibia,africa,139
+armenia,europe/asia,140
+lithuania,europe,141
+jamaica,central america,142
+albania,europe,143
+gambia,africa,144
+gabon,africa,145
+botswana,africa,146
+lesotho,africa,147
+guinea-bissau,africa,148
+slovenia,europe,149
+equatorial guinea,africa,150
+latvia,europe,151
+north macedonia,europe,152
+bahrain,asia,153
+trinidad and tobago,central america,154
+timor-leste,asia,155
+estonia,europe,156
+cyprus,europe,157
+mauritius,africa,158
+eswatini,africa,159
+djibouti,africa,160
+fiji,oceania,161
+réunion,africa,162
+comoros,africa,163
+guyana,south america,164
+solomon islands,oceania,165
+bhutan,asia,166
+macao,asia,167
+luxembourg,europe,168
+montenegro,europe,169
+suriname,south america,170
+western sahara,africa,171
+malta,europe,172
+maldives,asia,173
+micronesia,oceania,174
+cabo verde,africa,175
+brunei,asia,176
+belize,central america,177
+bahamas,central america,178
+iceland,europe,179
+guadeloupe,central america,180
+martinique,central america,181
+vanuatu,oceania,182
+mayotte,africa,183
+french guiana,south america,184
+new caledonia,oceania,185
+barbados,central america,186
+french polynesia,oceania,187
+sao tome & principe,africa,188
+samoa,oceania,189
+curaçao,central america,190
+saint lucia,central america,191
+guam,oceania,192
+kiribati,oceania,193
+seychelles,africa,194
+grenada,central america,195
+aruba,south america,196
+tonga,oceania,197
+st. vincent & grenadines,central america,198
+antigua and barbuda,central america,199
+u.s. virgin islands,central america,200
+isle of man,europe,201
+andorra,europe,202
+cayman islands,central america,203
+dominica,central america,204
+bermuda,central america,205
+greenland,north america,206
+faeroe islands,europe,207
+saint kitts & nevis,central america,208
+american samoa,oceania,209
+turks and caicos,central america,210
+northern mariana islands,oceania,211
+sint maarten,central america,212
+liechtenstein,europe,213
+british virgin islands,central america,214
+gibraltar,europe,215
+monaco,europe,216
+marshall islands,oceania,217
+san marino,europe,218
+caribbean netherlands,central america,219
+saint martin,central america,220
+palau,oceania,221
+anguilla,central america,222
+cook islands,oceania,223
+nauru,oceania,224
+wallis & futuna,oceania,225
+saint barthelemy,central america,226
+tuvalu,oceania,227
+saint pierre & miquelon,north america,228
+saint helena,africa,229
+montserrat,central america,230
+falkland islands,south america,231
+tokelau,oceania,232
+niue,oceania,233
+holy see,europe,234

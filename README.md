@@ -1,2 +1,2 @@
 # ntbd-world-population
-Data Warehouse project
+Projeto de Novas Tecnologias de Banco de Dados

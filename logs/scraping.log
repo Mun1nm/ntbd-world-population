@@ -1,0 +1,14 @@
+2025-02-25 18:22:29,237 - INFO - Iniciando coleta dos dados do Worldometers
+2025-02-25 18:22:30,002 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-25 18:22:30,005 - INFO - Dados principais extraídos.
+2025-02-25 18:22:30,651 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-25 18:22:30,655 - INFO - Foram encontrados 234 países para processar dados históricos.
+2025-02-25 18:22:34,226 - WARNING - Connection pool is full, discarding connection: www.worldometers.info. Connection pool size: 10
+2025-02-25 18:22:34,230 - WARNING - Connection pool is full, discarding connection: www.worldometers.info. Connection pool size: 10
+2025-02-25 18:23:34,589 - INFO - Iniciando coleta dos dados do Worldometers
+2025-02-25 18:23:35,323 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-25 18:23:35,325 - INFO - Dados principais extraídos.
+2025-02-25 18:23:35,961 - INFO - Tabela principal extraída com 234 linhas e colunas: ['#', 'Country', 'Population (2024)', 'Yearly Change', 'Net Change', 'Density (P/Km²)', 'Land Area (Km²)', 'Migrants (net)', 'Fert. Rate', 'Med. Age', 'Urban Pop %', 'World Share', 'Country_URL']
+2025-02-25 18:23:35,965 - INFO - Foram encontrados 234 países para processar dados históricos.
+2025-02-25 18:23:39,674 - WARNING - Connection pool is full, discarding connection: www.worldometers.info. Connection pool size: 10
+2025-02-25 18:23:39,675 - WARNING - Connection pool is full, discarding connection: www.worldometers.info. Connection pool size: 10
