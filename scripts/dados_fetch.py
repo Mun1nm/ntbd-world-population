@@ -57,8 +57,6 @@ def fetch_expectativa_vida():
     df_expectativa_vida['Expectativa_Vida'] = pd.to_numeric(df_expectativa_vida['Expectativa_Vida'], errors='coerce')
     df_expectativa_vida.dropna(subset=['Expectativa_Vida'], inplace=True)
 
-    df_expectativa_vida.to_csv("./data/expectativa.csv", index=False)
-
     return df_expectativa_vida
 
 # Função para buscar e tratar dados de taxa de mortalidade
